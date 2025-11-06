@@ -1,6 +1,8 @@
 ### 😄 Hi there, I’m Dr. Yuan Tian 👋
 
 
+## Lab for Code Generation - Setup Github Copilot
+<https://docs.google.com/document/d/1m-kIZg3NfrNFfudTUVH8qjIJnXCBjsU8EicDmqdUoIA/edit?usp=sharing>
 
 
 
