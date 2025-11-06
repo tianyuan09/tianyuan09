@@ -1,10 +1,10 @@
 ### 😄 Hi there, I’m Dr. Yuan Tian 👋
 
-
-## Lab for Code Generation - Setup Github Copilot
+## Lab Code Generation - Setup Github Copilot
 <https://docs.google.com/document/d/1m-kIZg3NfrNFfudTUVH8qjIJnXCBjsU8EicDmqdUoIA/edit?usp=sharing>
 
-
+## Lab: Generative AI’s Early Years – AI Adoption 2023-24
+<https://ai.wharton.upenn.edu/focus-areas/human-technology-interaction/2024-ai-adoption-report/>
 
 <!--
 **tianyuan09/tianyuan09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
