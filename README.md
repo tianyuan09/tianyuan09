@@ -1,5 +1,9 @@
 ### 😄 Hi there, I’m Dr. Yuan Tian 👋
 
+## Upload Your Nano Banana Image Here:
+
+<https://docs.google.com/presentation/d/15mvSF0KU2A-VfOqEPOb9kEvaZNedQ5IL9LZYwUmy7iM/edit?usp=sharing>
+
 ## Lab Code Generation - Setup Github Copilot
 <https://docs.google.com/document/d/1m-kIZg3NfrNFfudTUVH8qjIJnXCBjsU8EicDmqdUoIA/edit?usp=sharing>
 
